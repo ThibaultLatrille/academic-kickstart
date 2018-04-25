@@ -6,7 +6,7 @@
 baseurl = "https://thibaultlatrille.github.io/"
 
 # Title of your site
-title = "Academic"
+title = "Wandering"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -119,7 +119,7 @@ enableGitInfo = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -248,34 +248,19 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
-  name = "Home"
-  url = "#about"
-  weight = 1
-
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
-
-[[menu.main]]
   name = "Posts"
   url = "#posts"
-  weight = 3
+  weight = 1
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
+  weight = 2
 
 [[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
-
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 6
+  name = "Home"
+  url = "#about"
+  weight = 3
 
 # Taxonomies.
 [taxonomies]
