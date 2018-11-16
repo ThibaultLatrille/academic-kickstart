@@ -11,7 +11,7 @@ weight = 60
 
 +++
 # **Potageome**
-[Potageome](apps/potageome) is an interactive website to grow a virtual garden with all positive and negative interactions between plants, taking into account parasites and auxiliary organisms.
+[Potageome](apps/potageome) is an interactive website to plan a vegetable garden with all positive and negative interactions between plants, taking into account parasites and auxiliary organisms.
 
 The project in still a work in progress, initiated by [Thibault Lorin](https://github.com/tlorin/potageome).<br>
 [https://thibaultlatrille.github.io/apps/potageome](apps/potageome)
