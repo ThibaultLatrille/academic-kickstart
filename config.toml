@@ -6,7 +6,7 @@
 baseurl = "https://thibaultlatrille.github.io/"
 
 # Title of your site
-title = "Wandering"
+title = "Phylogenetrips"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -231,7 +231,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "https://twitter.com/ControverSci"
+    link = "https://twitter.com/Phylogenetrips"
 
   [[params.social]]
     icon = "github"
@@ -251,11 +251,6 @@ enableGitInfo = false
   name = "Posts"
   url = "#posts"
   weight = 1
-
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 2
 
 [[menu.main]]
   name = "Home"
