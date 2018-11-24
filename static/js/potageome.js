@@ -185,7 +185,7 @@ function zoomed() {
 
 function remove_nodes() {
     $(".planteSelected", "#jetsMyPotageomeContent").addClass("hidden");
-    $(".plante", "#jetsPotageomeContent").removeClass("hidden");
+    $(".plante", "#jets-potageome-content").removeClass("hidden");
     index_nodes = [];
     nodes = [];
     links = [];
@@ -193,7 +193,7 @@ function remove_nodes() {
 
 function remove_node(cur_index) {
     $("#planteSelected_" + String(cur_index), "#jetsMyPotageomeContent").addClass("hidden");
-    $("#plante_" + String(cur_index), "#jetsPotageomeContent").removeClass("hidden");
+    $("#plante_" + String(cur_index), "#jets-potageome-content").removeClass("hidden");
     i = index_nodes.indexOf(cur_index);
     index_nodes.splice(i, 1);
     nodes.splice(i, 1);
@@ -219,7 +219,7 @@ function remove_node(cur_index) {
 }
 
 function add_node(cur_index) {
-    $("#plante_" + String(cur_index), "#jetsPotageomeContent").addClass("hidden");
+    $("#plante_" + String(cur_index), "#jets-potageome-content").addClass("hidden");
     $("#planteSelected_" + String(cur_index), "#jetsMyPotageomeContent").removeClass("hidden");
     index_nodes.push(cur_index);
     var cur_node = graph.nodes[cur_index];
@@ -386,8 +386,8 @@ function tick() {
 }
 $(document).ready(function () {
     new Jets({
-        searchTag: "#jetsPotageomeSearch",
-        contentTag: "#jetsPotageomeContent"
+        searchTag: "#jets-potageome-search",
+        contentTag: "#jets-potageome-content"
     });
 
     var plante_list = Cookies.getJSON("nodes");
