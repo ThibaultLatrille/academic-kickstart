@@ -10,8 +10,9 @@ date = 2016-04-20T00:00:00
 weight = 60
 
 +++
-# **Potageome**
-[Potageome](apps/potageome) is an interactive website to plan a vegetable garden with all positive and negative interactions between plants, taking into account parasites and auxiliary organisms.
+# **MonPotager**
+[MonPotager](apps/MonPotager) is an interactive website to plan a vegetable garden with all positive and negative interactions between plants, taking into account parasites and auxiliary organisms.
 
-The project in still a work in progress, initiated by [Thibault Lorin](https://github.com/tlorin/potageome).<br>
-[https://thibaultlatrille.github.io/apps/potageome](apps/potageome)
+The project in still a work in progress, initiated by [Thibault Lorin](https://github.com/tlorin).
+The code is publicly available on [github](https://github.com/ThibaultLatrille/MonPotager)<br>
+[https://thibaultlatrille.github.io/apps/MonPotager](apps/MonPotager)
