@@ -11,8 +11,8 @@ weight = 60
 
 +++
 # **MonPotager**
-[MonPotager](apps/MonPotager) is an interactive website to plan a vegetable garden with all positive and negative interactions between plants, taking into account parasites and auxiliary organisms.
+[MonPotager](apps/monpotager) is an interactive website to plan a vegetable garden with all positive and negative interactions between plants, taking into account parasites and auxiliary organisms.
 
-The project in still a work in progress, initiated by [Thibault Lorin](https://github.com/tlorin).
-The code is publicly available on [github](https://github.com/ThibaultLatrille/MonPotager)<br>
-[https://thibaultlatrille.github.io/apps/MonPotager](apps/MonPotager)
+The project in still a work in progress, initiated by [Thibault Lorin](https://github.com/tlorin), moreover 
+the code is publicly available on [github](https://github.com/ThibaultLatrille/MonPotager).<br>
+[https://thibaultlatrille.github.io/apps/monpotager](apps/monpotager)
