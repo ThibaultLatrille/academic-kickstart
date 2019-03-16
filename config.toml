@@ -258,9 +258,24 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Home"
-  url = "#about"
+  name = "Projects"
+  url = "#controversciences"
+  weight = 2
+
+[[menu.main]]
+  name = "Papers"
+  url = "#publications"
   weight = 3
+
+ [[menu.main]]
+  name = "Slides"
+  url = "#slides"
+  weight = 4
+
+[[menu.main]]
+  name = "About"
+  url = "#about"
+  weight = 5
 
 # Taxonomies.
 [taxonomies]

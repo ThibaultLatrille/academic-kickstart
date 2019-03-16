@@ -10,13 +10,14 @@ date = 2016-04-20T00:00:00
 weight = 60
 
 +++
-# **MonPotager**
-[MonPotager.org](https://monpotager.org) is an interactive website to plan a vegetable garden taking into account all positive and negative interactions between plants.
+# Mon**Potager**
+[Mon**Potager.org**](https://monpotager.org) is an interactive website to plan a vegetable garden taking into account all positive and negative interactions between plants.
 The parasites attacking your vegetables can be held off thanks to repellent plants and auxiliary organisms.
 
 
 The project, written in french, was initiated by [Thibault Lorin](https://github.com/tlorin). 
 The dataset used in the application is available and open to suggestions, feel free to bring your knowledge :
+
   - [Species dataset](https://docs.google.com/spreadsheets/d/1Wp_fomhElzCspAxgarp1BstonU0HGA_tNB_U2uNskw0/edit?usp=sharing#gid=537765681)
   - [Interactions dataset](https://docs.google.com/spreadsheets/d/1Wp_fomhElzCspAxgarp1BstonU0HGA_tNB_U2uNskw0/edit?usp=sharing#gid=0537765681)
 
